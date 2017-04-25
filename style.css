@@ -1,0 +1,53 @@
+.gg {
+  background: lightgrey;
+}
+.f1 {
+  float: right;
+}
+.f2 {
+  float: right;
+}
+h1 {
+  text-align: center;
+}
+.www {
+  width: 100%;
+}
+
+#looked-1 {
+height: 400px;
+background: url(./images/trump.jpg);
+color: white;
+Background-repeat: no-repeat;
+Background-size: cover;
+}
+.btn-clear {
+	background: transparent;
+	color: white;
+	border: 2px solid white;
+}
+.btn-clear:hover {
+	background: white;
+	color: #2f2f2f;
+}
+  #furniture {
+   padding-top: 25px;
+   padding-bottom: 100px;
+   background-color: #22A7F0;
+  }
+  #furniture i {
+  margin: auto 0;
+  font-size: 40px;
+  }
+  #furniture a {
+   color: white;
+  }
+.centered {
+text-align: center;
+}
+.mt {
+  margin-top: ;
+}
+.awe {
+  position: fixed;
+}
